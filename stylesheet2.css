@@ -1,0 +1,25 @@
+table, th, td {
+  border: 5px solid black;
+}
+
+nav {
+	text-align: center;
+	font-size: 35px;
+	font-family: georgia;
+	padding: 30px 55px 40px;
+}
+
+body {
+	background-color: #FFDEAD;
+}
+
+p {
+	font-family: Garamond;
+	text-align: center;
+	font-size: 35px;
+}
+
+#cric{
+    padding: 0px 500px 0px;
+}
+

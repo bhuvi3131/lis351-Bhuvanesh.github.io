@@ -1,0 +1,43 @@
+body {
+	background-color: #0099FF;
+      padding: 25px 50px 25px;
+}
+
+h1 {
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 40px;
+}
+
+p {
+	text-align: left;
+	font-size: 35px;
+	font-family: Georgia;
+}
+ol {
+	text-align: left;
+	font-style: italic;
+	font-size: 35px;
+	font-family: Times New Roman
+}
+
+dt {
+    	text-align: center;
+	font-family: Verdana;
+	font-size: 40px;
+}
+
+dl {
+     text-align: left;
+	font-family: Georgia;
+	font-size: 40px;
+
+}
+
+
+nav {
+	text-align: center;
+	font-size: 35px;
+	font-family: Georgia;
+	padding: 25px 50px 25px;
+}
